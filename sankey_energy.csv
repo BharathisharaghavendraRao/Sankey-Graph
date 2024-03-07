@@ -1,0 +1,46 @@
+type,Energy Form,Type Of Energy,Consumption,Year,Total,Per Capita
+Fossil Fuels,Non renewable,Oil Consumption - EJ,517.6362094,1985,1574.709176,2007.636
+Fossil Fuels,Non renewable,Oil Consumption - EJ,897.8395363,1995,2945.223906,3055.456
+Fossil Fuels,Non renewable,Oil Consumption - EJ,1464.246185,2005,4600.368817,4009.038
+Fossil Fuels,Non renewable,Oil Consumption - EJ,2316.802119,2015,7990.736675,6099.98
+Fossil Fuels,Non renewable,Oil Consumption - EJ,2843.93059,2019,9459.693095,6923.931
+Fossil Fuels,Non renewable,Gas Consumption - EJ,43.22831583,1985,1574.709176,2007.636
+Fossil Fuels,Non renewable,Gas Consumption - EJ,180.7784346,1995,2945.223906,3055.456
+Fossil Fuels,Non renewable,Gas Consumption - EJ,343.2566496,2005,4600.368817,4009.038
+Fossil Fuels,Non renewable,Gas Consumption - EJ,478.0687575,2015,7990.736675,6099.98
+Fossil Fuels,Non renewable,Gas Consumption - EJ,596.8089685,2019,9459.693095,6923.931
+Fossil Fuels,Non renewable,Coal Consumption - EJ,857.3977652,1985,1574.709176,2007.636
+Fossil Fuels,Non renewable,Coal Consumption - EJ,1631.614708,1995,2945.223906,3055.456
+Fossil Fuels,Non renewable,Coal Consumption - EJ,2456.115316,2005,4600.368817,4009.038
+Fossil Fuels,Non renewable,Coal Consumption - EJ,4597.026459,2015,7990.736675,6099.98
+Fossil Fuels,Non renewable,Coal Consumption - EJ,5172.222865,2019,9459.693095,6923.931
+Sustainable,Renewable,Solar Consumption - EJ,0,1985,1574.709176,2007.636
+Sustainable,Renewable,Solar Consumption - EJ,0.002805838,1995,2945.223906,3055.456
+Sustainable,Renewable,Solar Consumption - EJ,0.048906829,2005,4600.368817,4009.038
+Sustainable,Renewable,Solar Consumption - EJ,16.61139127,2015,7990.736675,6099.98
+Sustainable,Renewable,Solar Consumption - EJ,114.5689332,2019,9459.693095,6923.931
+Sustainable,Renewable,Hydro Consumption - EJ,143.9252418,1985,1574.709176,2007.636
+Sustainable,Renewable,Hydro Consumption - EJ,210.8914815,1995,2945.223906,3055.456
+Sustainable,Renewable,Hydro Consumption - EJ,262.047678,2005,4600.368817,4009.038
+Sustainable,Renewable,Hydro Consumption - EJ,337.1733537,2015,7990.736675,6099.98
+Sustainable,Renewable,Hydro Consumption - EJ,400.7697614,2019,9459.693095,6923.931
+Fisson based,Renewable,Nuclear Consumption - EJ,12.52164335,1985,1574.709176,2007.636
+Fisson based,Renewable,Nuclear Consumption - EJ,21.15175637,1995,2945.223906,3055.456
+Fisson based,Renewable,Nuclear Consumption - EJ,47.68342422,2005,4600.368817,4009.038
+Fisson based,Renewable,Nuclear Consumption - EJ,96.90898229,2015,7990.736675,6099.98
+Fisson based,Renewable,Nuclear Consumption - EJ,111.8331823,2019,9459.693095,6923.931
+Sustainable,Renewable,Wind Consumption - EJ,0,1985,1574.709176,2007.636
+Sustainable,Renewable,Wind Consumption - EJ,1.379084437,1995,2945.223906,3055.456
+Sustainable,Renewable,Wind Consumption - EJ,16.11504454,2005,4600.368817,4009.038
+Sustainable,Renewable,Wind Consumption - EJ,82.8279621,2015,7990.736675,6099.98
+Sustainable,Renewable,Wind Consumption - EJ,156.7798656,2019,9459.693095,6923.931
+Bio Energy,Renewable,Geo Biomass Other - EJ,0,1985,1574.709176,2007.636
+Bio Energy,Renewable,Geo Biomass Other - EJ,1.5660986,1995,2945.223906,3055.456
+Bio Energy,Renewable,Geo Biomass Other - EJ,10.85401485,2005,4600.368817,4009.038
+Bio Energy,Renewable,Geo Biomass Other - EJ,65.31344511,2015,7990.736675,6099.98
+Bio Energy,Renewable,Geo Biomass Other - EJ,62.7742664,2019,9459.693095,6923.931
+Bio Energy,Renewable,Biofuels -EJ,0,1985,1574.709176,2007.636
+Bio Energy,Renewable,Biofuels -EJ,0,1995,2945.223906,3055.456
+Bio Energy,Renewable,Biofuels -EJ,0.0015984,2005,4600.368817,4009.038
+Bio Energy,Renewable,Biofuels -EJ,0.0042048,2015,7990.736675,6099.98
+Bio Energy,Renewable,Biofuels -EJ,0.004662,2019,9459.693095,6923.931
